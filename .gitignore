@@ -1,2 +1,3 @@
 # Exclude files in venv
+/env_inv/
 /.vs/
